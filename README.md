@@ -119,7 +119,7 @@ dd($var);
 
 #### Dump_r: `print_r` sous stéroids.
 
-[https://github.com/leeoniya/dump_r.php]()
+[https://github.com/leeoniya/dump_r.php](https://github.com/leeoniya/dump_r.php)
 
 `dump_r($var);`
 
@@ -127,7 +127,7 @@ dd($var);
 
 #### Kint: `dump_r` sous stéroids.
 
-[https://github.com/kint-php/kint]()
+[https://github.com/kint-php/kint](https://github.com/kint-php/kint)
 
 `d($var);`
 
@@ -135,13 +135,13 @@ dd($var);
 
 #### PhpDebugBar: la console pour php.
 
-[http://phpdebugbar.com]()
+[http://phpdebugbar.com](http://phpdebugbar.com)
 
 ***
 
 #### Whoops: Ça donne envie de faire des erreurs!
 
-[https://github.com/filp/whoops]()
+[https://github.com/filp/whoops](https://github.com/filp/whoops)
 
 
 
