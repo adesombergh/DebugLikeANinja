@@ -183,8 +183,5 @@ Live demo ICI et MAINTENANT!
 
 ![](images/whiteblock.jpg)
 
-### Resource externes pour débuguer en Javascript
-
-
 
 
